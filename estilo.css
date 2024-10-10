@@ -1,0 +1,34 @@
+
+.texto-menor{
+    font-size: 13px;
+}
+
+.facilidades{
+    width: 325px;
+}
+
+
+
+.card-header{
+    background-color: rgb(15, 14, 14);
+    font-size: 24px;
+    border-right: 20%;
+}
+
+.imagem{
+    color: #DAFF01;
+}
+
+.fundo{
+    background-color: black;
+}
+
+.posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
